@@ -8,7 +8,7 @@ These are a collection of **interactive web-based projects** I created to enhanc
 
 Here are some of my interactive web projects:
 
-- ❓ [Guess My Number](Guess-My-Number/index.html) – A fun number guessing game
+- ❓ [Guess My Number](https://andrearusso7899.github.io/Interactive-Web-Projects-Skill-Development/guess-my-number/) – A fun number guessing game
 - 🎲 [Pig Game](pig-game/index.html) – A strategic turn-based dice game
 - 💰 [Modal Project](progetto-modal/index.html) – Interactive modal pop-ups and UI elements
 

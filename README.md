@@ -38,4 +38,4 @@ These projects illustrate my ability to **build practical, real-world applicatio
 
 😁 Clicca sull’immagine qui sotto per aprire il mio CV completo in formato PDF 👇
 
-[![Anteprima CV](cv-preview.png)](https://github.com/AndreaRusso7899/Interactive-Web-Projects-Skill-Development/raw/main/CV-Andrea-Russo.pdf)
+[![Anteprima CV](cv-preview.png)](info/CV-Andrea-Russo.pdf)

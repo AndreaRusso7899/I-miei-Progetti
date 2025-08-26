@@ -33,3 +33,11 @@ Here are some of my interactive web projects:
 - ✅ Project management and version control using GitHub  
 
 These projects illustrate my ability to **build practical, real-world applications** while continuously developing my **front-end development skills**.
+
+
+# 🖐️MY BIO😁
+Sono Andrea Russo, laureando in Informatica presso l’Università degli Studi di Salerno.
+Mi definisco uno sviluppatore informatico motivato e orientato ai risultati, con una solida capacità di concentrazione sia nell’implementazione di soluzioni tecniche sia nell’acquisizione di nuove competenze.
+Attualmente sono alla ricerca di opportunità lavorative in azienda, con l’obiettivo di mettere in pratica le conoscenze maturate durante il mio percorso di studi, contribuire a progetti innovativi e intraprendere un percorso di crescita professionale all’interno di un ambiente stimolante e collaborativo.
+---> # CV: 
+

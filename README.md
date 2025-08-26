@@ -2,13 +2,15 @@
 
 These are a collection of interactive web-based projects I created to enhance my skills in HTML, CSS, and JavaScript. Each project focuses on different aspects of front-end development, user interaction, and dynamic web applications.
 
+
 # My Web Projects
 
 Here are some of my interactive web projects:
 
-- [Guess My Number](GUESS MY NUMBER/index.html)
+- [Guess My Number](Guess-My-Number/index.html)
 - [Pig Game](Pig-Game/index.html)
 - [Modal Project](Modal-Project/index.html)
+
 
 
 # Projects Include:

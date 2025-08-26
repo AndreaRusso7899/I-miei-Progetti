@@ -6,7 +6,7 @@ These are a collection of interactive web-based projects I created to enhance my
 
 Here are some of my interactive web projects:
 
-- [Guess My Number](05-Guess-My-Number/index.html)
+- [Guess My Number](GUESS MY NUMBER/index.html)
 - [Pig Game](Pig-Game/index.html)
 - [Modal Project](Modal-Project/index.html)
 

@@ -36,6 +36,6 @@ These projects illustrate my ability to **build practical, real-world applicatio
 
 # 📑 Curriculum Vitae
 
-Clicca sull’immagine qui sotto per aprire il mio CV completo in formato PDF 👇
+😁 Clicca sull’immagine qui sotto per aprire il mio CV completo in formato PDF 👇
 
 [![Anteprima CV](cv-preview.png)](CV-Andrea-Russo.pdf)

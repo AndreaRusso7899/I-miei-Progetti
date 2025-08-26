@@ -1,5 +1,3 @@
-<div style="background-color:#1e1e1e; color:#f5f5f5; padding:20px; border-radius:10px;">
-
 # 🚀 Interactive Web Projects – Skill Development
 
 These are a collection of **interactive web-based projects** I created to enhance my skills in **HTML, CSS, and JavaScript**. Each project focuses on different aspects of **front-end development**, **user interaction**, and **dynamic web applications**.
@@ -35,5 +33,3 @@ Here are some of my interactive web projects:
 - ✅ Project management and version control using GitHub  
 
 These projects illustrate my ability to **build practical, real-world applications** while continuously developing my **front-end development skills**.
-
-</div>

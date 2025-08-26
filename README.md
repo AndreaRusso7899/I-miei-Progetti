@@ -14,7 +14,7 @@ Here are some of my interactive web projects:
 
 ---
 
-# 📌 Projects Include:
+# 📌 Projects Include
 
 **Guess My Number** – An engaging number guessing game where players try to guess a secret number between 1 and 20. Demonstrates **DOM manipulation**, **event handling**, and **real-time feedback**.
 

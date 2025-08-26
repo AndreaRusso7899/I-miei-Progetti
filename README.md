@@ -36,8 +36,9 @@ These projects illustrate my ability to **build practical, real-world applicatio
 
 
 # 🖐️MY BIO😁
-Sono Andrea Russo, laureando in Informatica presso l’Università degli Studi di Salerno.
-Mi definisco uno sviluppatore informatico motivato e orientato ai risultati, con una solida capacità di concentrazione sia nell’implementazione di soluzioni tecniche sia nell’acquisizione di nuove competenze.
-Attualmente sono alla ricerca di opportunità lavorative in azienda, con l’obiettivo di mettere in pratica le conoscenze maturate durante il mio percorso di studi, contribuire a progetti innovativi e intraprendere un percorso di crescita professionale all’interno di un ambiente stimolante e collaborativo.
----> # CV: 
 
+# 📑 Curriculum Vitae
+
+Clicca sull’immagine qui sotto per aprire il mio CV completo in formato PDF 👇
+
+[![Anteprima CV](cv-preview.png)](CV-Andrea-Russo.pdf)

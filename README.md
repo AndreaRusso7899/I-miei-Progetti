@@ -34,7 +34,6 @@ Here are some of my interactive web projects:
 
 These projects illustrate my ability to **build practical, real-world applications** while continuously developing my **front-end development skills**.
 
-
 # 📑 Curriculum Vitae
 
 Clicca sull’immagine qui sotto per aprire il mio CV completo in formato PDF 👇

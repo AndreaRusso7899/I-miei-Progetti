@@ -10,7 +10,7 @@ Here are some of my interactive web projects:
 
 - ❓ [Guess My Number](https://andrearusso7899.github.io/Interactive-Web-Projects-Skill-Development/guess-my-number/) – A fun number guessing game
 - 🎲 [Pig Game](https://andrearusso7899.github.io/Interactive-Web-Projects-Skill-Development/pig-game/) – A strategic turn-based dice game
-- 💰 [Modal Project](https://andrearusso7899.github.io/Interactive-Web-Projects-Skill-Development/progetto-modal/) – Interactive modal pop-ups and UI elements
+- 💰 [Modal Project](https://andrearusso7899.github.io/Interactive-Web-Projects-Skill-Development/progetto-modal/) – Interactive modal pop-ups and UI elements [🔧 In development – see you soon! 🚀]
 
 ---
 

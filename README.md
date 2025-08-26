@@ -8,8 +8,8 @@ These are a collection of interactive web-based projects I created to enhance my
 Here are some of my interactive web projects:
 
 - [Guess My Number](Guess-My-Number/index.html)
-- [Pig Game](Pig-Game/index.html)
-- [Modal Project](Modal-Project/index.html)
+- [Pig Game](pig-game/index.html)
+- [Modal Project](progetto-modal/index.html)
 
 
 
